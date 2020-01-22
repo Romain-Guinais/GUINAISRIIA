@@ -1,5 +1,8 @@
- ### Application.bash - 2020 - GUINAIS ## 
-echo "Version 1.1"
-echo "Copyright company - 2020"
-echo "Build : 10:00"
+### application.bat - 2020 - votre nom ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
+
 
